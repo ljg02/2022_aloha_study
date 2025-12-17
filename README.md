@@ -1,4 +1,4 @@
-![nbody-simulation-2022-10-01-15-01-49](https://github.com/user-attachments/assets/b2c16169-ddd0-4f65-b040-0c5cb31da8b1)# 2022_aloha_study
+# 2022_aloha_study
 
 - 사용 언어 : C++
 - 사용 라이브러리 : openFrameworks
